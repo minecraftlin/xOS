@@ -1,0 +1,3 @@
+IDI_ICON_MAIN ICON "main.ico"
+IDI_ICON_FILEMGR ICON "filemgr.ico"
+IDI_ICON_SNAKE ICON "snake.ico"
